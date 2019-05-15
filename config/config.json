@@ -1,5 +1,5 @@
 [
     {"module":"environment"},
-    {"module":"dirlister"}
-
+    {"module":"dirlister"},
+    {"module":"hello"}
 ]
